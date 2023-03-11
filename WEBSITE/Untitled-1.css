@@ -1,0 +1,82 @@
+@charset "utf-8";
+	.BACKBGOUND
+{
+	background-image : url(BACKBGOUND.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 0px;
+	top : 0px;
+	width : 1920px;
+	height : 1080px;
+}
+.image
+{
+	background-image : url(image.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1676px;
+	top : 109px;
+	width : 199px;
+	height : 61px;
+}
+.HOME
+{
+	background-image : url(HOME.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 989px;
+	top : 109px;
+	width : 199px;
+	height : 61px;
+}
+.MENU
+{
+	background-image : url(MENU.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 81px;
+	top : 110px;
+	width : 63px;
+	height : 58px;
+}
+.image1
+{
+	background-image : url(image1.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1446px;
+	top : 109px;
+	width : 199px;
+	height : 61px;
+}
+.TIMER
+{
+	background-image : url(TIMER.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1221px;
+	top : 109px;
+	width : 199px;
+	height : 61px;
+}
+.NormalCharacterStyle
+{
+	font-family : Myriad Pro;
+	font-size : 34px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+.NormalCharacterStyle2
+{
+	font-family : Myriad Pro;
+	font-size : 70px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+.NormalCharacterStyle1
+{
+	font-family : Myriad Pro;
+	font-size : 34px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
